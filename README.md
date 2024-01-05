@@ -14,7 +14,6 @@ This project is a React-based web application that showcases a mouthwatering piz
 **Technologies Used**
 
 - React.js
-- (Optional: Additional libraries for styling, state management, or data fetching, if applicable)
 
 **Getting Started**
 
