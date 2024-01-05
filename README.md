@@ -52,13 +52,6 @@ This project is a React-based web application that showcases a mouthwatering piz
 - `src/`: Contains the React components, styles, and other source files.
 - `package.json`: Lists project dependencies and scripts.
 
-**Contributing**
-
-We welcome contributions! Feel free to fork the repository, make changes, and submit a pull request.
-
-**License**
-
-This project is licensed under the MIT License.
 
 **Additional Information**
 
