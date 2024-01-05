@@ -65,4 +65,3 @@ This project is licensed under the MIT License.
 
 - **Author:** Mayank Parkar
 - **Contact:** mayankparkar98@gmail.com
-- **Demo:** Link to a live demo of the app (if available)
